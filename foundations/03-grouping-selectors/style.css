@@ -1,0 +1,15 @@
+.buttonuno {
+    background-color:black;
+    color:white;
+    
+}
+
+.buttondos{
+    background-color:yellow;
+    
+}
+
+.buttondos,.buttonuno{
+    font-size: 28px;
+    font-family: "Helvetica","Times News Roman", sans-serif ;
+}
